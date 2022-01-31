@@ -573,7 +573,7 @@ client.sendMessage(from, teks, text, {quoted: froxx})
 switch(command) {
 
 case 'help':
-case 'menu':
+case 'list':
 if (isBanned) return reply(mess.banned)
               if(menugif == false){          	     
               otod = `${sender}`
@@ -589,7 +589,7 @@ Premium : ${isPremium? "Yes":"No"}
 
 ❏ Info Owner ❏
 Nama Owner : ${namaowner}
-Nomor : wa.me/6283876159184
+Nomor : wa.me/6286781563283
 
 *ASUPAN*
 🔖 *_${prefix}asupangeayubi_*
@@ -745,7 +745,7 @@ Premium : ${isPremium? "Yes":"No"}
 
 ❏ Info Owner ❏
 Nama Owner : ${namaowner}
-Nomor : wa.me/6283876159184
+Nomor : wa.me/6285781563283
 
 ${prefix}ownermenu
 ${prefix}grupmenu
